@@ -1,4 +1,5 @@
 # InfoTheory-to-Machine Lab
+https://bastianpd.github.io/infotheory-lab/
 
 Interactive React lab tracing information from phenomenon to machine action:
 **source → transduction → sampling & quantization → binary/ASCII → logic, transmission & automation.**
